@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/lihengjun/Clinical-Trials/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [editor on GitHub](关于深化审评审批制度改革鼓励药品医疗器械创新的意见.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
